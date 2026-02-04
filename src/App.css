@@ -108,6 +108,7 @@
   z-index: 2;
   /* Ensure it's above landing page content */
   backdrop-filter: blur(5px);
+  padding-bottom: 72px; /* space for fixed footer */
 }
 
 .product-list-container.visible {
