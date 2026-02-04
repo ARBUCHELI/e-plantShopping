@@ -24,7 +24,7 @@ const CartItem = ({ onContinueShopping }) => {
   }
 
   const handleCheckoutShopping = e => {
-    alert('Functionality to be added for future reference')
+    alert('This is an educational project that is not integrated with a payment system, but the checkout functionality could be added for future reference')
   }
 
   const handleIncrement = item => {
